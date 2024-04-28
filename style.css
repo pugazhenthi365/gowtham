@@ -1,0 +1,102 @@
+<style>
+
+            *{
+                padding:0;
+                margin:0;
+            }
+
+            body{
+                font-family: "Young Serif", serif;
+            }
+
+            .section-one{
+                background-color: black;
+                color:white;
+                padding:20px;
+            }
+
+            .section-one__name{
+                font-size:60px;
+
+            }
+            .section-one__role{
+                font-size:30px;
+                margin-top:10px;
+                margin-bottom: 10px;
+
+            }
+            .section-one__contact{
+                background-color: orangered;
+                color: white;
+                text-decoration: none;
+                padding-left: 10px;
+                padding-right: 10px;
+                padding-top: 5px;
+                padding bottom: 5px;
+            
+            }
+            .container{
+                padding:50px;
+            }
+            .section-two{
+                margin-top:25px;
+            }
+            .section-two__description{
+                margin-top: 10px;
+
+            }
+            .section-three{
+                background-color: #6462FD;
+                padding:20px;
+                border-radius: 10px;
+                margin-top: 20px;
+                display:inline-block;
+                height:200px;
+                vertical-align: top;
+            }
+
+            li{
+                list-style: none;
+            }
+            .section-four{
+                background-color: orangered;
+                padding:20px;
+                border-radius: 10px;
+                margin-top: 20px;
+                display:inline-block;
+                
+            }
+            .section-five{
+                background-color: black;
+                color: white;
+                padding: 10px;
+                margin-top: 20px;
+
+            }
+
+            .container1{
+                padding:20px;
+            }
+            .contactform{
+                margin-top: 20px;
+            }
+            .Name,.Email,.message{
+                margin-top: 10px;
+            }
+            .Name,.Email,.message{
+                padding: 10px;
+                border: none;
+                border-bottom: solid black 1px;
+            }
+            .submit{
+                padding-top: 10px;
+                padding-bottom: 10px;
+                padding-left: 20px;
+                padding-right: 20px;
+                background-color: orangered;
+                color: black;
+                border: none;
+            }
+
+
+        </style>
